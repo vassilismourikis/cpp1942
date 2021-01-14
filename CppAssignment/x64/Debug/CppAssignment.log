@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(214,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(214,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(273,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(273,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(300,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(300,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(368,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CppAssignment.vcxproj -> C:\Users\mouko\Desktop\CppAssignment\x64\Debug\CppAssignment.exe

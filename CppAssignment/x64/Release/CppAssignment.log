@@ -1,0 +1,14 @@
+﻿  Game.cpp
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(214,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(214,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(273,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(273,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(300,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(300,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mouko\Desktop\CppAssignment\CppAssignment\Game.cpp(368,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  10 of 426 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    64 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CppAssignment.vcxproj -> C:\Users\mouko\Desktop\CppAssignment\x64\Release\CppAssignment.exe
